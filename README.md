@@ -113,7 +113,3 @@ The project successfully classified tweets as disaster-related or non-disaster-r
 
 - The dataset is provided by [Kaggle](https://www.kaggle.com/c/nlp-getting-started).
 - Special thanks to all contributors to the machine learning libraries used in this project.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
